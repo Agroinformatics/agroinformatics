@@ -1,0 +1,14 @@
+# Formatted Document: team/profiles/smith.qmd
+---
+title: Jane Smith
+image: ../../assets/images/placeholder.jpg
+categories: [Current, Modeling, CPSC 444]
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      href: https://linkedin.com
+    - icon: github
+      href: https://github.com
+---
+Jane Smith researches spatial analytics and assists with agricultural modeling instruction.ß

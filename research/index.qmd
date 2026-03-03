@@ -1,6 +1,31 @@
+# Formatted Document: index.qmd
 ---
-title: Research
-listing:
-  contents: projects
-  type: grid
+page-layout: full
+toc: false
+css: assets/index.css
+include-before-body: assets/hero.html
 ---
+
+::: {.section-band}
+::: {.container}
+## About the Lab
+
+Nicolas Martin improves agricultural decision-making by integrating spatial analytics with geospatial intelligence. His research develops participatory frameworks connecting farmers and agronomists as citizen scientists. He prioritizes open-source tools to democratize access to advanced algorithms and complex data.
+:::
+:::
+
+::: {.section-band}
+::: {.container}
+## Research
+
+[Automated research grid will render here]
+:::
+:::
+
+::: {.section-band}
+::: {.container}
+## Teaching
+
+[Automated teaching grid will render here]
+:::
+:::

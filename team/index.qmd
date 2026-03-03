@@ -1,6 +1,26 @@
+# Formatted Document: team/index.qmd
 ---
-title: Lab Members
+title: Team
+page-layout: full
 listing:
-  contents: profiles
-  type: grid
+  - id: current-team
+    contents: profiles
+    include:
+      categories: ["Current"]
+    type: grid
+  - id: alumni-team
+    contents: profiles
+    include:
+      categories: ["Alumni"]
+    type: grid
 ---
+
+## Current Members
+
+::: {#current-team}
+:::
+
+## Alumni
+
+::: {#alumni-team}
+:::
