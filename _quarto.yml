@@ -22,9 +22,5 @@ format:
     theme:
       - cosmo
       - assets/theme.scss
-    include-in-header:
-      - assets/fonts.html
     smooth-scroll: true
     anchor-sections: true
-
-brand: _brand.yml
