@@ -1,31 +1,37 @@
 /* Formatted Document: assets/theme.scss */
 /*-- scss:defaults --*/
+$illini-blue: #13294B;
+$illini-orange: #FF5F05;
+$storm-dark: #707372;
+$storm-medium: #9C9A9D;
+$storm-light: #C8C6C7;
+
 $body-bg: #FFFFFF;
-$body-color: #707372;
-$link-color: #13294B;
-$link-hover-color: #FF5F05;
+$body-color: $storm-dark;
+$link-color: $illini-blue;
+$link-hover-color: $illini-orange;
 
 /*-- scss:rules --*/
 .section-band {
   padding: 4rem 0;
   background-color: #FFFFFF;
-  border-bottom: 1px solid #C8C6C7;
+  border-bottom: 1px solid $storm-light;
 }
 
 .quarto-grid-item {
-  border: 1px solid #C8C6C7;
+  border: 1px solid $storm-light;
   transition: border-color 0.2s;
   background-color: #FFFFFF;
 }
 
 .quarto-grid-item:hover {
-  border-color: #FF5F05;
+  border-color: $illini-orange;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #13294B;
+  color: $illini-blue;
 }
 
 .text-muted {
-  color: #9C9A9D !important;
+  color: $storm-medium !important;
 }
