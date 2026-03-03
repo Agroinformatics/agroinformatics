@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Agroinformatics Lab"
+  site-url: "https://agroinformatics.github.io/agroinformatics/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/index.qmd
+        text: Research
+      - href: team/index.qmd
+        text: Team
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: https://agroinformatics.github.io/cv_NFM/
+        text: CV
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/theme.scss
+    include-in-header:
+      - assets/fonts.html
+    smooth-scroll: true
+    anchor-sections: true
+
+brand: _brand.yml
+

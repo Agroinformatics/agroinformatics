@@ -1,0 +1,6 @@
+---
+title: Lab Members
+listing:
+  contents: profiles
+  type: grid
+---
