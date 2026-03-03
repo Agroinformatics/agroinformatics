@@ -1,52 +1,24 @@
 [
   {
-    "objectID": "team/profiles/smith.html",
-    "href": "team/profiles/smith.html",
-    "title": "Jane Smith",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
     "section": "",
-    "text": "title: Jane Smith image: ../../assets/images/placeholder.jpg categories: [Current, Modeling, CPSC 444] about: template: trestles links: - icon: linkedin href: https://linkedin.com - icon: github href: https://github.com — Jane Smith researches spatial analytics and assists with agricultural modeling instruction.ß"
+    "text": "title: Teaching listing: contents: cpsc444 type: grid —"
   },
   {
-    "objectID": "team/profiles/smith.html#formatted-document-teamprofilessmith.qmd",
-    "href": "team/profiles/smith.html#formatted-document-teamprofilessmith.qmd",
-    "title": "Jane Smith",
+    "objectID": "teaching/index.html#formatted-document-teachingindex.qmd",
+    "href": "teaching/index.html#formatted-document-teachingindex.qmd",
+    "title": "Teaching",
     "section": "",
-    "text": "title: Jane Smith image: ../../assets/images/placeholder.jpg categories: [Current, Modeling, CPSC 444] about: template: trestles links: - icon: linkedin href: https://linkedin.com - icon: github href: https://github.com — Jane Smith researches spatial analytics and assists with agricultural modeling instruction.ß"
+    "text": "title: Teaching listing: contents: cpsc444 type: grid —"
   },
   {
-    "objectID": "team/index.html",
-    "href": "team/index.html",
-    "title": "Team",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "title: Team page-layout: full listing: - id: current-team contents: profiles include: categories: [“Current”] type: grid - id: alumni-team contents: profiles include: categories: [“Alumni”] type: grid —"
-  },
-  {
-    "objectID": "team/index.html#formatted-document-teamindex.qmd",
-    "href": "team/index.html#formatted-document-teamindex.qmd",
-    "title": "Team",
-    "section": "",
-    "text": "title: Team page-layout: full listing: - id: current-team contents: profiles include: categories: [“Current”] type: grid - id: alumni-team contents: profiles include: categories: [“Alumni”] type: grid —"
-  },
-  {
-    "objectID": "team/index.html#current-members",
-    "href": "team/index.html#current-members",
-    "title": "Team",
-    "section": "Current Members",
-    "text": "Current Members\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "team/index.html#alumni",
-    "href": "team/index.html#alumni",
-    "title": "Team",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Agroinformatics Lab",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "About this site"
   },
   {
     "objectID": "research/index.html",
@@ -84,10 +56,52 @@
     "text": "Teaching\n[Automated teaching grid will render here]"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Agroinformatics Lab",
     "section": "",
-    "text": "About this site"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Team",
+    "section": "",
+    "text": "title: Team page-layout: full listing: - id: current-team contents: profiles include: categories: [“Current”] type: grid - id: alumni-team contents: profiles include: categories: [“Alumni”] type: grid —"
+  },
+  {
+    "objectID": "team/index.html#formatted-document-teamindex.qmd",
+    "href": "team/index.html#formatted-document-teamindex.qmd",
+    "title": "Team",
+    "section": "",
+    "text": "title: Team page-layout: full listing: - id: current-team contents: profiles include: categories: [“Current”] type: grid - id: alumni-team contents: profiles include: categories: [“Alumni”] type: grid —"
+  },
+  {
+    "objectID": "team/index.html#current-members",
+    "href": "team/index.html#current-members",
+    "title": "Team",
+    "section": "Current Members",
+    "text": "Current Members\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "team/index.html#alumni",
+    "href": "team/index.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "team/profiles/smith.html",
+    "href": "team/profiles/smith.html",
+    "title": "Jane Smith",
+    "section": "",
+    "text": "title: Jane Smith image: ../../assets/images/placeholder.jpg categories: [Current, Modeling, CPSC 444] about: template: trestles links: - icon: linkedin href: https://linkedin.com - icon: github href: https://github.com — Jane Smith researches spatial analytics and assists with agricultural modeling instruction.ß"
+  },
+  {
+    "objectID": "team/profiles/smith.html#formatted-document-teamprofilessmith.qmd",
+    "href": "team/profiles/smith.html#formatted-document-teamprofilessmith.qmd",
+    "title": "Jane Smith",
+    "section": "",
+    "text": "title: Jane Smith image: ../../assets/images/placeholder.jpg categories: [Current, Modeling, CPSC 444] about: template: trestles links: - icon: linkedin href: https://linkedin.com - icon: github href: https://github.com — Jane Smith researches spatial analytics and assists with agricultural modeling instruction.ß"
   }
 ]

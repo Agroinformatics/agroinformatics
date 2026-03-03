@@ -1,0 +1,7 @@
+# Formatted Document: teaching/index.qmd
+---
+title: Teaching
+listing:
+  contents: cpsc444
+  type: grid
+---
