@@ -1,0 +1,12 @@
+# Formatted Document: _brand.yml
+typography:
+  base: Source Sans 3
+  headings: Montserrat
+color:
+  illini-blue: "#13294B"
+  illini-orange: "#FF5F05"
+  storm-dark: "#707372"
+  storm-medium: "#9C9A9D"
+  storm-light: "#C8C6C7"
+  white: "#FFFFFF"
+  black: "#000000"

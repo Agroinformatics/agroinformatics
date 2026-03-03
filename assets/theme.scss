@@ -1,0 +1,31 @@
+/* Formatted Document: assets/theme.scss */
+/*-- scss:defaults --*/
+$body-bg: #FFFFFF;
+$body-color: #707372;
+$link-color: #13294B;
+$link-hover-color: #FF5F05;
+
+/*-- scss:rules --*/
+.section-band {
+  padding: 4rem 0;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #C8C6C7;
+}
+
+.quarto-grid-item {
+  border: 1px solid #C8C6C7;
+  transition: border-color 0.2s;
+  background-color: #FFFFFF;
+}
+
+.quarto-grid-item:hover {
+  border-color: #FF5F05;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #13294B;
+}
+
+.text-muted {
+  color: #9C9A9D !important;
+}
